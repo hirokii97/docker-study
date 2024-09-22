@@ -2,7 +2,7 @@
 
 // 接続
 // hostはコンテナ名を記載する
-$dsn = 'mysql:dbname=test_db;host=run-php-db;';
+$dsn = 'mysql:dbname=test_db;host=php-db;';
 $user = 'test';
 $password = 'test';
 
